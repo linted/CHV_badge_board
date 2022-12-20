@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/footprint/W25Q16JVUXIQ_TR")(options "")(descr ""))
+)
