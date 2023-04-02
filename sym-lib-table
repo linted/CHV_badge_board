@@ -1,4 +1,7 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/footprint/Minimal/RP2040_minimal/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
   (lib (name "W25Q16JVUXIQ_TR")(type "Legacy")(uri "${KIPRJMOD}/footprint/W25Q16JVUXIQ_TR/W25Q16JVUXIQ_TR.lib")(options "")(descr ""))
+  (lib (name "OS102011MS2QN1C")(type "Legacy")(uri "${KIPRJMOD}/footprint/OS102011MS2QN1C/OS102011MS2QN1C.lib")(options "")(descr ""))
+  (lib (name "OS103011MS8QP1C")(type "Legacy")(uri "${KIPRJMOD}/footprint/OS103011MS8QP1C/OS103011MS8QP1C.lib")(options "")(descr ""))
+  (lib (name "PTS526_SK15_SMTR2_LFS")(type "Legacy")(uri "${KIPRJMOD}/footprint/PTS526_SK15_SMTR2_LFS/PTS526_SK15_SMTR2_LFS.lib")(options "")(descr ""))
 )

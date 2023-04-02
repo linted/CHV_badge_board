@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="272.26427"
-     inkscape:cy="203.85594"
-     inkscape:window-width="3382"
-     inkscape:window-height="2096"
+     inkscape:zoom="22.627417"
+     inkscape:cx="122.37367"
+     inkscape:cy="290.68718"
+     inkscape:window-width="1654"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g846"
+     inkscape:current-layer="g842"
      inkscape:showpageshadow="0"
      inkscape:deskcolor="#505050" />
   <defs
@@ -97,8 +97,7 @@
      inkscape:label="F.Cu"
      inkscape:groupmode="layer"
      id="g842"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        id="path5508"
        style="display:inline;fill:#00b9b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0812514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -599,6 +598,10 @@
        style="fill:#4caeb4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-opacity:1"
        id="path28093"
        sodipodi:nodetypes="csssc" />
+    <path
+       id="path1595"
+       style="fill:#5ab4bd;stroke:#ffffff;stroke-width:0.1"
+       d="m 36.321464,75.925758 a 2.8823347,2.8823347 0 0 1 -2.882335,2.882335 2.8823347,2.8823347 0 0 1 -2.882335,-2.882335 2.8823347,2.8823347 0 0 1 2.882335,-2.882334 2.8823347,2.8823347 0 0 1 2.882335,2.882334 z" />
   </g>
   <g
      inkscape:label="F.Mask"
@@ -1403,7 +1406,7 @@
      inkscape:label="F.SilkS"
      inkscape:groupmode="layer"
      id="g846"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g1999"
