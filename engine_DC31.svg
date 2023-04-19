@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="engine_DC31.svg"
    id="svg5"
    version="1.1"
-   viewBox="0 0 100.0 100.0"
-   height="100.0mm"
-   width="100.0mm"
+   viewBox="0 0 150.0 150.0"
+   height="150.0mm"
+   width="150.0mm"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="22.627417"
-     inkscape:cx="122.37367"
-     inkscape:cy="290.68718"
-     inkscape:window-width="1654"
-     inkscape:window-height="1016"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-21.566757"
+     inkscape:cy="353.90694"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g842"
+     inkscape:current-layer="g846"
      inkscape:showpageshadow="0"
      inkscape:deskcolor="#505050" />
   <defs
@@ -54,14 +54,14 @@
   <g
      inkscape:label="[fixed] BG"
      inkscape:groupmode="layer"
-     sodipodi:insensitive="true"
-     id="g832">
+     id="g832"
+     transform="scale(1.5)">
     <rect
        x="0"
        y="0"
-       width="100.0"
-       height="100.0"
-       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       width="100"
+       height="100"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect830" />
   </g>
   <g
@@ -69,7 +69,7 @@
      inkscape:groupmode="layer"
      id="g834"
      style="display:none"
-     sodipodi:insensitive="true">
+     transform="scale(1.5)">
     <path
        id="path10471"
        style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#130000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -80,24 +80,25 @@
      inkscape:groupmode="layer"
      id="g836"
      style="display:none"
-     sodipodi:insensitive="true" />
+     transform="scale(1.5)" />
   <g
      inkscape:label="B.Mask"
      inkscape:groupmode="layer"
      id="g838"
-     sodipodi:insensitive="true"
-     style="display:none" />
+     style="display:none"
+     transform="scale(1.5)" />
   <g
      inkscape:label="B.SilkS"
      inkscape:groupmode="layer"
      id="g840"
-     sodipodi:insensitive="true"
-     style="display:none" />
+     style="display:none"
+     transform="scale(1.5)" />
   <g
      inkscape:label="F.Cu"
      inkscape:groupmode="layer"
      id="g842"
-     style="display:inline">
+     style="display:inline"
+     transform="scale(1.5)">
     <path
        id="path5508"
        style="display:inline;fill:#00b9b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0812514;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -608,7 +609,7 @@
      inkscape:groupmode="layer"
      id="g844"
      style="display:none"
-     sodipodi:insensitive="true">
+     transform="scale(1.5)">
     <g
        id="g14805"
        inkscape:label="engine symbol"
@@ -1407,7 +1408,7 @@
      inkscape:groupmode="layer"
      id="g846"
      style="display:none"
-     sodipodi:insensitive="true">
+     transform="scale(1.5)">
     <g
        id="g1999"
        inkscape:label="engine symbol"
@@ -1821,7 +1822,8 @@
      inkscape:groupmode="layer"
      id="g848"
      style="display:none"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     transform="scale(1.5)">
     <g
        id="g904"
        inkscape:label="engine symbol"
