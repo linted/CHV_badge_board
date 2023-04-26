@@ -1,0 +1,2107 @@
+** Drc report for /home/groot/CHV_badge_board/CHV_DC31.kicad_pcb **
+** Created on 2023-04-25 18:53:12 **
+
+** Found 688 DRC violations **
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Copper sliver (F.Cu)
+    Local override; Severity: warning
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(58.0161 mm, -42.0820 mm): Polygon on F.Silkscreen
+    @(185.0314 mm, 49.6618 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(47.4555 mm, -47.8418 mm): Polygon on F.Silkscreen
+    @(185.0314 mm, 49.6618 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(47.4555 mm, -47.8418 mm): Polygon on F.Silkscreen
+    @(179.5017 mm, 54.1360 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(47.4555 mm, -47.8418 mm): Polygon on F.Silkscreen
+    @(193.5214 mm, 59.7797 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(134.7754 mm, 30.3940 mm): Line on F.Silkscreen
+    @(-11.5615 mm, -60.5977 mm): Polygon on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(121.4404 mm, 37.5060 mm): Line on F.Silkscreen
+    @(-11.5615 mm, -60.5977 mm): Polygon on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(-46.7739 mm, -47.8671 mm): Polygon on F.Silkscreen
+    @(71.6637 mm, 49.5157 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(-46.7739 mm, -47.8671 mm): Polygon on F.Silkscreen
+    @(62.9985 mm, 59.4839 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(-46.7739 mm, -47.8671 mm): Polygon on F.Silkscreen
+    @(68.2827 mm, 64.2457 mm): Line on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(62.9985 mm, 59.4839 mm): Line on F.Silkscreen
+    @(-57.7849 mm, -42.1097 mm): Polygon on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(74.8022 mm, 55.7778 mm): Footprint Text 'CAN RX' of J5
+    @(73.9519 mm, 56.7439 mm): Footprint Text 'RX' of J5
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(69.5620 mm, 52.9013 mm): Footprint Text 'TX' of J5
+    @(70.3932 mm, 51.9451 mm): Footprint Text 'CAN TX' of J5
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(186.8454 mm, 61.9000 mm): Footprint Text 'CAN RX' of J4
+    @(186.0242 mm, 60.9089 mm): Footprint Text 'RX' of J4
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(191.3206 mm, 58.1448 mm): Footprint Text 'CAN TX' of J4
+    @(190.5062 mm, 57.1742 mm): Footprint Text 'TX' of J4
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(130.8414 mm, 31.0290 mm): Footprint Text 'TX' of J3
+    @(132.1084 mm, 31.0290 mm): Footprint Text 'CAN TX' of J3
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(112.0900 mm, 98.0050 mm): Line on B.Silkscreen
+    @(112.8000 mm, 43.4000 mm): PCB Text 'ON' on B.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(130.8214 mm, 36.8630 mm): Footprint Text 'RX' of J3
+    @(132.1084 mm, 36.8710 mm): Footprint Text 'CAN RX' of J3
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; Severity: warning
+    @(118.1000 mm, 107.7000 mm): Reference 'D15'
+    @(120.2632 mm, 108.9433 mm): Line on B.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(68.2827 mm, 64.2457 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(62.9985 mm, 59.4839 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.4354 mm, 55.7126 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(65.8188 mm, 56.0459 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(68.2683 mm, 52.4538 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(68.5558 mm, 52.7038 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(71.6637 mm, 49.5157 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(77.0312 mm, 54.1816 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(179.5017 mm, 54.1360 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(185.0314 mm, 49.6618 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(188.3751 mm, 52.6587 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(187.9859 mm, 52.9852 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(191.1506 mm, 55.9664 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(190.8587 mm, 56.2113 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(193.5214 mm, 59.7797 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(188.0733 mm, 64.3512 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-29.4316 mm, -17.0299 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(23.6432 mm, 5.6197 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(9.6893 mm, -21.6222 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-35.8315 mm, -10.8847 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-9.6520 mm, -21.6524 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-11.6205 mm, -21.6524 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(35.1378 mm, -9.9446 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(28.7862 mm, -17.0428 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-22.9578 mm, 35.1501 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-17.6229 mm, -3.0572 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(14.5128 mm, -22.6347 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(11.6628 mm, -21.6524 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-43.6630 mm, -31.8570 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-13.6483 mm, -22.6117 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(14.0922 mm, 40.5614 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(43.6186 mm, -31.8582 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-57.7849 mm, -42.1097 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(51.0159 mm, -26.3686 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(58.0161 mm, -42.0820 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-51.0674 mm, -26.3825 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-49.5189 mm, -25.0404 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-45.2309 mm, -33.2038 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(45.2033 mm, -33.2051 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(21.7367 mm, -10.3565 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(49.4786 mm, -25.0354 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-23.0289 mm, 21.3126 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.2277 mm, 17.9488 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-32.9704 mm, 8.6147 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.6032 mm, 10.0469 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-8.2842 mm, 12.5434 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(5.3167 mm, -9.8452 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(7.6551 mm, 25.9200 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.6193 mm, -2.9520 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.5175 mm, -16.7229 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-24.3105 mm, 8.6007 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-11.9477 mm, 18.7941 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-5.3206 mm, 30.5464 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(8.7710 mm, 18.7840 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-31.2923 mm, 21.6150 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-10.8584 mm, 25.8983 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(1.9490 mm, 30.5557 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-7.8693 mm, 56.8952 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(5.1521 mm, 12.5167 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-33.0148 mm, -0.1976 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-8.4820 mm, -9.8436 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(1.5964 mm, 56.8935 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-24.2961 mm, -0.1995 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-12.5784 mm, 40.8326 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-29.5444 mm, 37.7731 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-3.0896 mm, 56.9025 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(45.7671 mm, -38.0204 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(51.2869 mm, -31.5461 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-45.6898 mm, -38.0156 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-41.7122 mm, -31.6651 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(57.1293 mm, -24.7170 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-47.5532 mm, -24.8392 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(47.5249 mm, -24.8554 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-57.0594 mm, -24.6983 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-51.2673 mm, -31.5381 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-28.6295 mm, 1.7897 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(41.6776 mm, -31.6712 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-16.5925 mm, 50.4917 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(36.1465 mm, 36.4009 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-29.7513 mm, 24.3416 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-23.0345 mm, 19.6782 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.3725 mm, -12.1278 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-43.0762 mm, 18.3059 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-27.7389 mm, 18.9635 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-1.3917 mm, 13.5499 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-22.7888 mm, 18.3127 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-11.5615 mm, -60.5977 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(47.4555 mm, -47.8418 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(-46.7739 mm, -47.8671 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(31.2203 mm, -34.0525 mm): Polygon on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(121.4404 mm, 37.5060 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(121.5674 mm, 30.3940 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.0124 mm, 29.7590 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(126.0124 mm, 30.2670 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(130.3304 mm, 29.7590 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(130.3304 mm, 30.1400 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.7754 mm, 30.3940 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(134.7754 mm, 37.5060 mm): Line on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(92.5125 mm, 124.8635 mm): Reference 'S8'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(79.6846 mm, 65.4795 mm): Reference 'U6'
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; Severity: warning
+    @(157.9963 mm, 106.0752 mm): Line on B.Silkscreen
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(67.3486 mm, 57.8011 mm): PTH pad 1 [+3V3] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(67.3486 mm, 57.8011 mm): PTH pad 1 [+3V3] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(67.3486 mm, 57.8011 mm): PTH pad 1 [+3V3] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(67.3486 mm, 57.8011 mm): PTH pad 1 [+3V3] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(67.3486 mm, 57.8011 mm): PTH pad 1 [+3V3] of J5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(186.0131 mm, 54.2216 mm): PTH pad 1 [+3V3] of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(186.0131 mm, 54.2216 mm): PTH pad 1 [+3V3] of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(186.0131 mm, 54.2216 mm): PTH pad 1 [+3V3] of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(186.0131 mm, 54.2216 mm): PTH pad 1 [+3V3] of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(186.0131 mm, 54.2216 mm): PTH pad 1 [+3V3] of J4
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(65.7144 mm, -33.6031 mm): Polygon on F.Mask
+    @(65.7365 mm, -33.4063 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(49.9664 mm, -8.5440 mm): Polygon on F.Mask
+    @(50.2973 mm, -8.5243 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(31.2554 mm, -56.0228 mm): Polygon on F.Mask
+    @(21.0510 mm, -41.6004 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-49.4438 mm, -8.5449 mm): Polygon on F.Mask
+    @(-49.1530 mm, -8.5208 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(49.9664 mm, -8.5440 mm): Polygon on F.Mask
+    @(50.2973 mm, -8.5243 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-49.4438 mm, -8.5449 mm): Polygon on F.Mask
+    @(-49.1530 mm, -8.5208 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-16.7345 mm, 17.8805 mm): Polygon on F.Mask
+    @(-31.8076 mm, 22.0582 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-1.4582 mm, -17.9185 mm): Polygon on F.Mask
+    @(-1.5615 mm, -2.9453 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-1.4582 mm, -17.9185 mm): Polygon on F.Mask
+    @(-1.5615 mm, -2.9453 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-16.7345 mm, 17.8805 mm): Polygon on F.Mask
+    @(-31.8076 mm, 22.0582 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-1.4582 mm, -17.9185 mm): Polygon on F.Mask
+    @(-1.5615 mm, -2.9453 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-44.1572 mm, 29.4345 mm): Polygon on F.Mask
+    @(-43.9685 mm, 29.4488 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-1.4582 mm, -17.9185 mm): Polygon on F.Mask
+    @(-1.5615 mm, -2.9453 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-49.4438 mm, -8.5449 mm): Polygon on F.Mask
+    @(-49.1530 mm, -8.5208 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-23.0289 mm, 21.3126 mm): Polygon on F.Mask
+    @(-23.1158 mm, 21.7432 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-39.0809 mm, 5.6158 mm): Polygon on F.Mask
+    @(-39.0806 mm, 5.3253 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-49.4438 mm, -8.5449 mm): Polygon on F.Mask
+    @(-49.1530 mm, -8.5208 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-67.7578 mm, -20.7214 mm): Polygon on F.Mask
+    @(-56.7547 mm, -12.8140 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(49.9664 mm, -8.5440 mm): Polygon on F.Mask
+    @(50.2973 mm, -8.5243 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(0.4481 mm, -63.3319 mm): Polygon on F.Mask
+    @(-5.5162 mm, -63.3043 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-23.0564 mm, 18.7332 mm): Polygon on F.Mask
+    @(-23.0222 mm, 20.1167 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(31.2554 mm, -56.0228 mm): Polygon on F.Mask
+    @(21.0510 mm, -41.6004 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-16.7345 mm, 17.8805 mm): Polygon on F.Mask
+    @(-31.8076 mm, 22.0582 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-67.7578 mm, -20.7214 mm): Polygon on F.Mask
+    @(-56.7547 mm, -12.8140 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-68.6529 mm, -22.8499 mm): Polygon on F.Mask
+    @(-65.7957 mm, -33.1653 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-16.7345 mm, 17.8805 mm): Polygon on F.Mask
+    @(-31.8076 mm, 22.0582 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(14.5095 mm, -13.6525 mm): Polygon on F.Mask
+    @(16.3009 mm, 10.1164 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-24.2961 mm, -0.1995 mm): Polygon on F.Mask
+    @(-24.1841 mm, 0.2436 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-28.6295 mm, 1.7897 mm): Polygon on F.Mask
+    @(-28.5960 mm, 4.7572 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-24.3105 mm, 8.6007 mm): Polygon on F.Mask
+    @(-24.2751 mm, 9.0359 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-32.9704 mm, 8.6147 mm): Polygon on F.Mask
+    @(-33.0052 mm, 9.0520 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-33.0148 mm, -0.1976 mm): Polygon on F.Mask
+    @(-33.1137 mm, 0.2226 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(65.7144 mm, -33.6031 mm): Polygon on F.Mask
+    @(65.7365 mm, -33.4063 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(20.5897 mm, -37.7243 mm): Polygon on F.Mask
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(46.6725 mm, -47.8559 mm): Polygon on F.Mask
+    @(46.6146 mm, -47.8516 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-1.3917 mm, 13.5499 mm): Polygon on F.Mask
+    @(-1.4828 mm, 13.9820 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(0.4481 mm, -63.3319 mm): Polygon on F.Mask
+    @(128.2314 mm, 32.5730 mm): PTH pad 3 [unconnected-(J3-Pin_3-Pad3)] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(0.4481 mm, -63.3319 mm): Polygon on F.Mask
+    @(128.2314 mm, 32.5730 mm): PTH pad 3 [unconnected-(J3-Pin_3-Pad3)] of J3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(141.4375 mm, 148.4525 mm): PTH pad S1 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(21.1722 mm, -60.1714 mm): Polygon on F.Mask
+    @(121.1550 mm, 40.9850 mm): PTH pad 1 [Net-(BT1-+)] of BT1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(32.4334 mm, -37.7202 mm): Polygon on F.Mask
+    @(35.1049 mm, -9.9507 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(47.1859 mm, -47.4644 mm): Polygon on F.Mask
+    @(184.5216 mm, 54.2216 mm): Track [+3V3] on F.Cu, length 0.3133 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-46.6848 mm, -47.4912 mm): Polygon on F.Mask
+    @(81.1250 mm, 47.3000 mm): NPTH pad of REF**
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(-34.8403 mm, -41.5802 mm): Polygon on F.Mask
+    @(-54.2751 mm, -10.6957 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(29.0732 mm, 17.8142 mm): Polygon on F.Mask
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.0815 mm, -47.7943 mm): Polygon on F.Mask
+    @(0.9073 mm, -43.4552 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(1.0815 mm, -47.7943 mm): Polygon on F.Mask
+    @(0.9073 mm, -43.4552 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(39.2368 mm, 12.6789 mm): Polygon on F.Mask
+    @(15.1961 mm, 27.4743 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; Severity: error
+    @(3.3703 mm, 54.7023 mm): Polygon on F.Mask
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(125.6914 mm, 35.1130 mm): PTH pad 2 [GND] of J3
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(156.9618 mm, 131.3418 mm): Pad 2 [GND] of C2 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(145.2182 mm, 122.6853 mm): Pad 1 [GND] of C16 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(150.4982 mm, 121.6553 mm): Pad 2 [GND] of C14 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(160.1459 mm, 107.0369 mm): Pad 4 [GND] of Y1 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(132.7975 mm, 152.6325 mm): PTH pad S1 [GND] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(56.2000 mm, 27.0000 mm): Zone [GND] on B.Cu
+    @(146.1322 mm, 145.1333 mm): Pad 2 [GND] of C25 on B.Cu
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(67.8103 mm, 54.9164 mm): Footprint Text 'NC' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(69.5620 mm, 52.9013 mm): Footprint Text 'TX' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(74.8022 mm, 55.7778 mm): Footprint Text 'CAN RX' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(70.3932 mm, 51.9451 mm): Footprint Text 'CAN TX' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(73.9519 mm, 56.7439 mm): Footprint Text 'RX' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(70.5530 mm, 60.6661 mm): Footprint Text 'GND' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(72.2193 mm, 58.7491 mm): Footprint Text 'NC' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(66.1439 mm, 56.8334 mm): Footprint Text 'VCC' of J5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(186.8454 mm, 61.9000 mm): Footprint Text 'CAN RX' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(188.7900 mm, 55.1289 mm): Footprint Text 'NC' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(182.6820 mm, 56.9383 mm): Footprint Text 'GND' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(184.3147 mm, 58.8841 mm): Footprint Text 'NC' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(191.3206 mm, 58.1448 mm): Footprint Text 'CAN TX' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(186.0242 mm, 60.9089 mm): Footprint Text 'RX' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(187.1573 mm, 53.1831 mm): Footprint Text 'VCC' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(190.5062 mm, 57.1742 mm): Footprint Text 'TX' of J4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(130.8414 mm, 31.0290 mm): Footprint Text 'TX' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(132.1084 mm, 31.0290 mm): Footprint Text 'CAN TX' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(125.6314 mm, 36.8710 mm): Footprint Text 'GND' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(130.8214 mm, 36.8630 mm): Footprint Text 'RX' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(132.1084 mm, 36.8710 mm): Footprint Text 'CAN RX' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(128.1714 mm, 31.0290 mm): Footprint Text 'NC' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(128.1714 mm, 36.8710 mm): Footprint Text 'NC' of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7500 mm)
+    Rule: board setup constraints silk text height; Severity: warning
+    @(125.6314 mm, 31.0290 mm): Footprint Text 'VCC' of J3
+[lib_footprint_mismatch]: Footprint 'D_SOD-123' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(109.5500 mm, 94.2500 mm): Footprint D9
+[lib_footprint_mismatch]: Footprint 'D_SOD-123' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(153.3750 mm, 80.0375 mm): Footprint D11
+[lib_footprint_mismatch]: Footprint 'BatteryHolder_Keystone_2462_2xAA' does not match copy in library 'Battery'.
+    Local override; Severity: warning
+    @(121.1550 mm, 40.9850 mm): Footprint BT1
+[lib_footprint_mismatch]: Footprint 'D_SOD-123' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(105.3000 mm, 97.2500 mm): Footprint D13
+[lib_footprint_mismatch]: Footprint 'D_SOD-123' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(148.2583 mm, 90.2333 mm): Footprint D3
+[lib_footprint_mismatch]: Footprint 'D_SOD-123' does not match copy in library 'Diode_SMD'.
+    Local override; Severity: warning
+    @(140.7700 mm, 142.9100 mm): Footprint D1
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(92.5656 mm, 124.8104 mm): Footprint S8
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(161.1500 mm, 91.7250 mm): Footprint S3
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(163.9618 mm, 56.6328 mm): Footprint S5
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(74.8509 mm, 79.8358 mm): Footprint S6
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(103.9340 mm, 45.3332 mm): Footprint S4
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; Severity: error
+    @(103.2918 mm, 135.3263 mm): Footprint S7
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(119.7641 mm, 157.7093 mm): Line on Edge.Cuts
+    @(-8.0716 mm, 65.0522 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(124.5029 mm, 157.7093 mm): Line on Edge.Cuts
+    @(-3.3302 mm, 65.0522 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(129.2293 mm, 157.7093 mm): Line on Edge.Cuts
+    @(1.3899 mm, 65.0522 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(193.8728 mm, 59.3257 mm): Line on Edge.Cuts
+    @(65.7365 mm, -33.4063 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.7160 mm, 114.3726 mm): Line on Edge.Cuts
+    @(-50.4250 mm, 21.6379 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(84.0369 mm, 122.1390 mm): Line on Edge.Cuts
+    @(-43.9685 mm, 29.4488 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(175.1761 mm, 44.8223 mm): Line on Edge.Cuts
+    @(46.6146 mm, -47.8516 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(103.5470 mm, 65.8350 mm): Line on Edge.Cuts
+    @(-24.6016 mm, -26.8236 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(62.3357 mm, 59.3258 mm): Line on Edge.Cuts
+    @(-65.8143 mm, -33.4704 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(72.1460 mm, 49.2370 mm): Line on Edge.Cuts
+    @(-56.0864 mm, -43.4705 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(178.0477 mm, 84.1539 mm): Line on Edge.Cuts
+    @(50.2973 mm, -8.5243 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(71.5549 mm, 49.2095 mm): Line on Edge.Cuts
+    @(-56.4339 mm, -43.4936 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.7160 mm, 114.3726 mm): Line on Edge.Cuts
+    @(-50.4476 mm, 21.8659 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.6791 mm, 115.0939 mm): Line on Edge.Cuts
+    @(-50.4476 mm, 22.7549 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(84.7611 mm, 108.0125 mm): Line on Edge.Cuts
+    @(-43.3106 mm, 15.3074 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(184.6536 mm, 49.2094 mm): Line on Edge.Cuts
+    @(56.5013 mm, -43.4937 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(193.8728 mm, 59.3257 mm): Line on Edge.Cuts
+    @(65.7151 mm, -33.7390 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.6791 mm, 115.0939 mm): Line on Edge.Cuts
+    @(-50.4679 mm, 22.2545 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(89.1005 mm, 97.5331 mm): Line on Edge.Cuts
+    @(-39.0806 mm, 5.3253 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(97.8894 mm, 60.4372 mm): Line on Edge.Cuts
+    @(-30.2546 mm, -32.5600 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(158.2982 mm, 59.8894 mm): Line on Edge.Cuts
+    @(30.1764 mm, -32.5371 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(175.1761 mm, 44.8223 mm): Line on Edge.Cuts
+    @(47.0238 mm, -47.8758 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(177.4696 mm, 84.1662 mm): Line on Edge.Cuts
+    @(49.8122 mm, -8.5484 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(89.1005 mm, 97.5331 mm): Line on Edge.Cuts
+    @(-39.0425 mm, 4.7929 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(149.1687 mm, 57.7508 mm): Line on Edge.Cuts
+    @(21.0285 mm, -34.8721 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(121.5178 mm, 156.5423 mm): Line on Edge.Cuts
+    @(-4.8260 mm, 63.3307 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(78.7382 mm, 84.1568 mm): Line on Edge.Cuts
+    @(-49.1530 mm, -8.5208 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(79.4190 mm, 84.2248 mm): Line on Edge.Cuts
+    @(-48.5066 mm, -8.4403 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(120.0666 mm, 157.7396 mm): Line on Edge.Cuts
+    @(-6.6149 mm, 63.7803 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(175.9988 mm, 84.3811 mm): Line on Edge.Cuts
+    @(49.1913 mm, -8.5081 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.6907 mm, 84.1778 mm): Line on Edge.Cuts
+    @(-49.5691 mm, -8.5468 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(124.8045 mm, 157.7396 mm): Line on Edge.Cuts
+    @(-1.8660 mm, 63.6787 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(123.3055 mm, 156.2406 mm): Line on Edge.Cuts
+    @(-4.8070 mm, 63.8380 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(153.5102 mm, 66.2632 mm): Line on Edge.Cuts
+    @(30.1509 mm, -31.8531 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(162.1031 mm, 97.5873 mm): Line on Edge.Cuts
+    @(34.0144 mm, 4.8957 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(129.5259 mm, 157.7396 mm): Line on Edge.Cuts
+    @(8.2091 mm, 62.9126 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(182.0275 mm, 85.0097 mm): Line on Edge.Cuts
+    @(55.4759 mm, -9.0374 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(126.2862 mm, 155.6032 mm): Line on Edge.Cuts
+    @(-0.0805 mm, 63.3783 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(149.7337 mm, 62.0808 mm): Line on Edge.Cuts
+    @(21.5371 mm, -30.6164 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(103.6114 mm, 65.4197 mm): Line on Edge.Cuts
+    @(-20.6374 mm, -30.6231 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(175.7412 mm, 44.8737 mm): Line on Edge.Cuts
+    @(47.3999 mm, -47.8463 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.8230 mm, 113.6715 mm): Line on Edge.Cuts
+    @(-43.6895 mm, 15.3307 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(77.6791 mm, 115.0939 mm): Line on Edge.Cuts
+    @(-50.4275 mm, 23.1132 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(146.6872 mm, 62.0583 mm): Line on Edge.Cuts
+    @(21.0078 mm, -34.6374 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(97.9792 mm, 61.2988 mm): Line on Edge.Cuts
+    @(-30.2346 mm, -31.9425 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(73.8889 mm, 81.9944 mm): Line on Edge.Cuts
+    @(-54.2774 mm, -10.6914 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(72.7168 mm, 49.3347 mm): Line on Edge.Cuts
+    @(-47.4768 mm, -47.8361 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(171.3440 mm, 108.7534 mm): Line on Edge.Cuts
+    @(36.7873 mm, 8.7859 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(59.5193 mm, 68.8171 mm): Line on Edge.Cuts
+    @(-65.7957 mm, -33.1653 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(74.1811 mm, 85.0098 mm): Line on Edge.Cuts
+    @(-52.4960 mm, -9.2011 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(178.5208 mm, 84.1828 mm): Line on Edge.Cuts
+    @(53.1255 mm, -8.4816 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(96.8506 mm, 35.7631 mm): Line on Edge.Cuts
+    @(-5.5162 mm, -63.3043 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(112.6683 mm, 147.3622 mm): Line on Edge.Cuts
+    @(-14.2891 mm, 56.6794 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(62.3755 mm, 58.7333 mm): Line on Edge.Cuts
+    @(-56.9278 mm, -43.4544 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(85.4455 mm, 108.0487 mm): Line on Edge.Cuts
+    @(-39.0846 mm, 6.0320 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(185.2469 mm, 49.2586 mm): Line on Edge.Cuts
+    @(56.8448 mm, -43.4651 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(90.6799 mm, 93.0157 mm): Line on Edge.Cuts
+    @(-47.7603 mm, -8.2906 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(70.1109 mm, 81.4120 mm): Line on Edge.Cuts
+    @(-56.7509 mm, -12.8012 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(84.0369 mm, 122.1390 mm): Line on Edge.Cuts
+    @(-42.2704 mm, 29.7269 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(157.3528 mm, 97.5707 mm): Line on Edge.Cuts
+    @(48.2319 mm, -8.3914 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(122.8580 mm, 29.3727 mm): Line on Edge.Cuts
+    @(2.8086 mm, -63.3269 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(157.2615 mm, 45.7802 mm): Line on Edge.Cuts
+    @(31.2737 mm, -56.1658 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(69.8396 mm, 78.5485 mm): Line on Edge.Cuts
+    @(-68.6265 mm, -22.6211 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(141.6042 mm, 155.6032 mm): Line on Edge.Cuts
+    @(44.9041 mm, 30.0038 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(98.4777 mm, 45.2139 mm): Line on Edge.Cuts
+    @(-31.3491 mm, -56.3880 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(183.6278 mm, 83.6141 mm): Line on Edge.Cuts
+    @(65.7107 mm, -33.0517 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(81.0331 mm, 44.8224 mm): Line on Edge.Cuts
+    @(-46.6930 mm, -47.8610 mm): Polygon on F.Cu
+[copper_edge_clearance]: Board edge clearance violation
+    Rule: board setup constraints edge; Severity: error
+    @(158.2663 mm, 59.7150 mm): Line on Edge.Cuts
+    @(46.3819 mm, -47.8258 mm): Polygon on F.Cu
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(98.4777 mm, 45.2139 mm): Line on Edge.Cuts
+    @(-11.5615 mm, -60.5977 mm): Polygon on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(182.3197 mm, 81.9943 mm): Line on Edge.Cuts
+    @(47.4555 mm, -47.8418 mm): Polygon on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(69.8396 mm, 78.5485 mm): Line on Edge.Cuts
+    @(-46.7739 mm, -47.8671 mm): Polygon on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(74.3366 mm, 84.9237 mm): Line on Edge.Cuts
+    @(31.2203 mm, -34.0525 mm): Polygon on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(157.3528 mm, 97.5707 mm): Line on Edge.Cuts
+    @(160.9453 mm, 93.6591 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(163.0219 mm, 92.6771 mm): Line on Edge.Cuts
+    @(164.0544 mm, 93.0083 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(165.1068 mm, 53.7016 mm): Line on Edge.Cuts
+    @(164.1327 mm, 54.6955 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(163.5390 mm, 55.0284 mm): Line on Edge.Cuts
+    @(163.1486 mm, 53.5634 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(160.6097 mm, 55.0458 mm): Line on Edge.Cuts
+    @(161.0354 mm, 55.4004 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(71.8552 mm, 82.7866 mm): Line on Edge.Cuts
+    @(71.9465 mm, 81.1191 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(99.3726 mm, 46.0516 mm): Line on Edge.Cuts
+    @(102.0738 mm, 45.9004 mm): Line on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(99.3726 mm, 46.0516 mm): Line on Edge.Cuts
+    @(103.8876 mm, 48.5081 mm): Line on B.Silkscreen
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.2150 mm)
+    Rule: board setup constraints hole; Severity: error
+    @(117.5500 mm, 93.3500 mm): Track [+3V3] on F.Cu, length 4.4002 mm
+    @(119.7500 mm, 94.8500 mm): Via [Net-(BT1-+)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1938 mm)
+    Rule: board setup constraints hole; Severity: error
+    @(117.5500 mm, 93.3500 mm): Track [+3V3] on F.Cu, length 4.4002 mm
+    @(117.9500 mm, 94.4200 mm): Via [Net-(J6-Pin_2)] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.2350 mm)
+    Rule: board setup constraints hole; Severity: error
+    @(128.7000 mm, 94.1650 mm): Track [Net-(J6-Pin_2)] on B.Cu, length 10.7600 mm
+    @(119.7500 mm, 94.8500 mm): Via [Net-(BT1-+)] on F.Cu - B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.1112 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(156.9500 mm, 113.5204 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(156.0484 mm, 114.4220 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(157.8516 mm, 114.4220 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(156.9500 mm, 115.3236 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(156.0484 mm, 116.2251 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0756 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(158.7531 mm, 115.3236 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.1250 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; Severity: error
+    @(157.8516 mm, 116.2251 mm): PTH pad 57 [GND] of U3
+    @(29.0763 mm, 21.2599 mm): Polygon on F.Cu
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(76.4971 mm, 62.9042 mm): Track [GND] on B.Cu, length 0.0071 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(158.6736 mm, 112.1858 mm): Track [GND] on B.Cu, length 0.3981 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(156.0750 mm, 119.3099 mm): Track [+3V3] on B.Cu, length 0.0087 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(153.9060 mm, 110.8653 mm): Track [+3V3] on B.Cu, length 0.2042 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(159.8558 mm, 119.8742 mm): Track [+3V3] on B.Cu, length 0.0600 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(148.3594 mm, 102.5186 mm): Track [+3V3] on B.Cu, length 0.0042 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(152.6808 mm, 114.7314 mm): Track [+3V3] on B.Cu, length 0.0130 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(159.2076 mm, 105.8345 mm): Track [RP1_XTAL_IN] on B.Cu, length 0.0200 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(161.5627 mm, 105.7421 mm): Track [RP1_XTAL_OUT] on B.Cu, length 0.5208 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(152.2021 mm, 99.2257 mm): Track [Net-(D2-A)] on B.Cu, length 0.0580 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(130.5844 mm, 114.7095 mm): Track [LED_LINE_2] on B.Cu, length 0.3713 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(175.7452 mm, 60.8452 mm): Track [Net-(D11-K)] on B.Cu, length 0.0231 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(154.0951 mm, 117.3300 mm): Track [RP1_QSPI_SD3] on B.Cu, length 0.3981 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(149.2495 mm, 126.0636 mm): Track [Net-(J1-D--PadA7)] on B.Cu, length 0.1347 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(129.3000 mm, 35.5556 mm): Track [SAO1_TX] on B.Cu, length 0.0556 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(130.9000 mm, 34.6700 mm): Track [SAO1_RX] on B.Cu, length 0.0300 mm
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(106.9500 mm, 93.3500 mm): Track [Net-(J6-Pin_2)] on B.Cu, length 0.1273 mm
+
+** Found 2 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(154.3779 mm, 117.6128 mm): Pad 50 [RP1_v1] of U3 on B.Cu
+    @(155.1318 mm, 119.6874 mm): Track [RP1_v1] on B.Cu, length 0.9339 mm
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(154.3779 mm, 117.6128 mm): Pad 50 [RP1_v1] of U3 on B.Cu
+    @(159.8049 mm, 113.3172 mm): Track [RP1_v1] on B.Cu, length 3.0836 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **

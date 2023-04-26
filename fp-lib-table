@@ -7,4 +7,5 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/footprint/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "engine")(type "KiCad")(uri "${KIPRJMOD}/footprint/engine")(options "")(descr ""))
   (lib (name "MK-12C02-G020")(type "KiCad")(uri "${KIPRJMOD}/footprint/MK-12C02-G020")(options "")(descr ""))
+  (lib (name "badgelife_sao_v169bis")(type "KiCad")(uri "${KIPRJMOD}/footprint/badgelife_sao_v169bis.pretty")(options "")(descr ""))
 )
