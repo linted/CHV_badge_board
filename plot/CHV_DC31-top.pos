@@ -1,0 +1,14 @@
+### Footprint positions - created on Tue 30 May 2023 09:57:34 AM PDT ###
+### Printed by KiCad version 7.0.2-6a45011f42~172~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                           PosX       PosY       Rot  Side
+                                                             130.6800    93.6100    0.0000  top
+                                                               0.3200    94.4900    0.0000  top
+FID1      Fiducial             engine_DC31                    65.5976    67.2085    0.0000  top
+J3        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3    65.6214   126.0770    0.0000  top
+J4        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3   124.0996   102.9752  -50.0000  top
+J5        Conn_02x03_Odd_Even  Badgelife-SAOv169-BADGE-2x3     7.3690   103.1506   49.0000  top
+REF**     alignment_hole       alignment_hole                 66.1100   119.0400    0.0000  top
+REF**     alignment_hole       alignment_hole                 22.2300    44.8000    0.0000  top
+## End
